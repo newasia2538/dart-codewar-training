@@ -1,0 +1,25 @@
+# https://dart.dev/guides/libraries/private-files
+# Created by `dart pub`
+.dart_tool/
+
+# Dart related
+.packages
+.pub/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# Build outputs
+build/
+
+# Miscellaneous
+*.log
+*.lock
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
