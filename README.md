@@ -23,7 +23,7 @@ my currently is [Dart SDK version: 3.1.2 (stable)](https://dart.dev/get-dart/arc
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/newasia2538/dart-codewar-training](https://github.com/newasia2538/dart-codewar-training.git)
+    git clone https://github.com/newasia2538/dart-codewar-training.git
     cd dart-codewar-training
     ```
 
